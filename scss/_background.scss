@@ -1,0 +1,4 @@
+.background-img {
+    background-image: url('../img/backas.png');
+    @include background-cover;
+}
